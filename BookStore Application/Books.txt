@@ -1,0 +1,4 @@
+Spiderman 60.0
+Sekiro 90.0
+Barney 10.0
+Spongebob 45.0
